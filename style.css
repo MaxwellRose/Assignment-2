@@ -1,5 +1,5 @@
 .title {
-  color:red;
+  color: red;
   text-align: center;
   width: 300px;
   border: 15px solid blue;
@@ -8,16 +8,16 @@
 }
 
 .paragraph {
-  color:red;
+  color: red;
   float: left;
   width: 201px;
   border: 3px solid blue;
   padding: 10px;
-  font-size: 90%
+  font-size: 90%;
 }
 
 .quote {
-  color:red;
+  color: red;
   float: right;
   width: 201px;
   border: 3px solid blue;
@@ -35,7 +35,7 @@
 
 .link1{
    text-align: center;
-   color:red;
+   color: red;
   float: right;
   width: 85px;
   border: 3px solid blue;
@@ -44,7 +44,7 @@
 
 .link2{
    text-align: center;
-   color:red;
+   color: red;
   float: left;
   width: 50px;
   border: 3px solid blue;
@@ -52,7 +52,7 @@
 }
 
 .page2p {
-  color:red;
+  color: red;
   width: 350px;
   border: 3px solid blue;
   padding: 10px;
@@ -60,7 +60,7 @@
 }
 
 .quote2 {
-  color:red;
+  color: red;
   width: 350px;
   border: 3px solid blue;
   padding: 10px;
@@ -69,7 +69,7 @@
 
 .img1 {
  display: block;
-  margin-left: auto;
+ margin-left: auto;
  margin-right: auto;
  size: 150%;
 }
